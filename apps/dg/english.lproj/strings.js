@@ -629,6 +629,7 @@ SC.stringsFor('English', {
   'DG.Inspector.newAttribute': "New Attribute in %@...",  // "New Attribute in %@..."
   'DG.Inspector.randomizeAllAttributes': "Rerandomize All", // "Randomize Attributes"
   'DG.Inspector.exportCaseData': "Export Case Data...", // "Export Case Data..."
+  'DG.Inspector.exportPrimaryCaseData.toolTip': "Export data from this case", // "Export Case Data..."
 
   // Map Inspector
   'DG.Inspector.mapGrid': "Grid",  // "Grid"
